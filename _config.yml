@@ -1,2 +1,5 @@
 Title: DH project
 theme: minima
+header_pages:
+ - index.md
+ - page1.md
